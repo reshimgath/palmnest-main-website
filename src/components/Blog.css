@@ -1,0 +1,11 @@
+.xyz{
+    height: 100vh;
+    overflow: scroll;
+}
+
+.xyz::-webkit-scrollbar
+{
+    display: none;
+}
+
+

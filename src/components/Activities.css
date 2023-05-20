@@ -1,0 +1,21 @@
+.xyz{
+    height: 100vh;
+    overflow: scroll;
+
+}
+
+.xyz::-webkit-scrollbar
+{
+    display: none;
+}
+img{
+    max-width: 100%;
+    height: 250px;
+    margin-top: 10px;
+}
+span{
+    margin: 10px 10px;
+    font-weight: 40px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
